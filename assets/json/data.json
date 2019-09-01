@@ -965,5 +965,148 @@
 		"writer",
 		"yardmaster",
 		"zoologist"
+	],
+
+	"myHotList" : [
+		{
+			"id":1,
+			"name": "Vivek",
+			"city": "Newburgh",
+			"state": "NY",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":true,
+			"totalExp":12,
+			"visa":"H1B"
+		},
+		{
+			"id":2,
+			"name": "Bhupathi",
+			"city": "Los Angeles",
+			"state": "CA",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":false,
+			"totalExp":12,
+			"visa":"H1B"
+		},
+		{
+			"id":3,
+			"name": "Vijay",
+			"city": "Chicago",
+			"state": "Il",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":true,
+			"totalExp":8,
+			"visa":"H1B"
+		},
+		{
+			"id":4,
+			"name": "Ram",
+			"city": "San Francisco",
+			"state": "CA",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":true,
+			"totalExp":12,
+			"visa":"H1B"
+		},
+		{
+			"id":5,
+			"name": "Senthil",
+			"city": "San Diego",
+			"state": "CA",
+			"skills":"Angular, Javascript, React, VueJS",
+			"status":false,
+			"totalExp":12,
+			"visa":"H1B"
+		},
+		{
+			"id":6,
+			"name": "Mouli",
+			"city": "Barrington",
+			"state": "Il",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":true,
+			"totalExp":8,
+			"visa":"H1B"
+		},
+		{
+			"id":7,
+			"name": "Kumar",
+			"city": "East Hampton",
+			"state": "NY",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":false,
+			"totalExp":4,
+			"visa":"H1B"
+		},
+		{
+			"id":1,
+			"name": "Vivek",
+			"city": "Newburgh",
+			"state": "NY",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":true,
+			"totalExp":12,
+			"visa":"H1B"
+		},
+		{
+			"id":2,
+			"name": "Bhupathi",
+			"city": "Los Angeles",
+			"state": "CA",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":true,
+			"totalExp":12,
+			"visa":"H1B"
+		},
+		{
+			"id":3,
+			"name": "Vijay",
+			"city": "Chicago",
+			"state": "Il",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":true,
+			"totalExp":8,
+			"visa":"H1B"
+		},
+		{
+			"id":4,
+			"name": "Ram",
+			"city": "San Francisco",
+			"state": "CA",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":true,
+			"totalExp":12,
+			"visa":"H1B"
+		},
+		{
+			"id":5,
+			"name": "Senthil",
+			"city": "San Diego",
+			"state": "CA",
+			"skills":"Angular, Javascript, React, VueJS",
+			"status":false,
+			"totalExp":12,
+			"visa":"H1B"
+		},
+		{
+			"id":6,
+			"name": "Mouli",
+			"city": "Barrington",
+			"state": "Il",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":true,
+			"totalExp":8,
+			"visa":"H1B"
+		},
+		{
+			"id":7,
+			"name": "Kumar",
+			"city": "East Hampton",
+			"state": "NY",
+			"skills":"Angular, Java, Javascript, PHP",
+			"status":false,
+			"totalExp":4,
+			"visa":"H1B"
+		}
 	]
 }
