@@ -180,7 +180,7 @@
 		}
 	],
 	"jobPositionTypeList": ["C2C"],
-	"jobTypeList": ["Remote","Inperson M-F","Flexible"],
+	"jobTypeList": ["Onsite (Mon-Friday)","Full Remote","Onsite (Mon-Thur) & Remote-Friday","Remote possible in future"],
 	"jobProjectStartList" : ["Immediate","1 week","2 Weeks","2-4 Weeks","1 Month"],
 	"visaPostJobList": ["H1B", "OPT/CPT", "GCEAD", "GC", "USC", "L2EAD", "H4EAD"]
 
