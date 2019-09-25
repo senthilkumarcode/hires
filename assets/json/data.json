@@ -373,6 +373,48 @@
 	        "visa": "H1B"
 	    }
 	],
+	"candidateList" : [
+		{
+			"id":1,
+			"name": "Vivek",
+			"title": "Java Developer",
+			"appliedJobs": 90,
+			"newMatchingJobs": 12
+			
+		},
+		{
+			"id":2,
+			"name": "Bhupathi",
+			"title": "Java Developer",
+			"appliedJobs": 67,
+			"newMatchingJobs": 22
+			
+		},
+		{
+			"id":3,
+			"name": "Ram",
+			"title": "Java Developer",
+			"appliedJobs": 30,
+			"newMatchingJobs": 14
+			
+		},
+		{
+			"id":4,
+			"name": "Senthil",
+			"title": "Front-End Developer",
+			"appliedJobs": 42,
+			"newMatchingJobs": 12
+			
+		},
+		{
+			"id":5,
+			"name": "Mouli",
+			"title": "Java Developer",
+			"appliedJobs": 35,
+			"newMatchingJobs": 17
+			
+		}
+	],
 	"jobPositionTypeList": ["C2C"],
 	"jobTypeList": ["Onsite (Mon-Friday)","Full Remote","Onsite (Mon-Thur) & Remote-Friday","Remote possible in future"],
 	"jobProjectStartList" : ["Immediate","1 week","2 Weeks","2-4 Weeks","1 Month"],
