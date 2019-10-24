@@ -142,9 +142,76 @@
 		}
 	],
 	"domainList" : ["Retail","Banking and Financial services","Healthcare","Travel and Hospitality","Engineering and Construction","Insurance","Technology","Telecom"],
-	"billingList" : ["35-50","40-50","45-55","55-60","60-75","60-80","75-100","100+"],
-	"availabilityList" : ["Immediate","Available in 1 week","2 Weeks",">3 Weeks"],
-	"relocationList": ["Open","Tri State Area","PA NJ NY","States"],
+	"billingList" : [
+		{
+			"id":1,
+			"name":"35-50"
+		},
+		{
+			"id":2,
+			"name":"40-45"
+		},
+		{
+			"id":3,
+			"name":"45-55"
+		},
+		{
+			"id":4,
+			"name":"55-60"
+		},
+		{
+			"id":5,
+			"name":"60-75"
+		},
+		{
+			"id":18,
+			"name":"60-80"
+		},
+		{
+			"id":19,
+			"name":"75-100"
+		},
+		{
+			"id":20,
+			"name":"100+"
+		}
+	],
+	"availabilityList" : [
+		{
+			"id":1,
+			"name":"Immediate"
+		},
+		{
+			"id":2,
+			"name":"Available in 1 week"
+		},
+		{
+			"id":3,
+			"name":"2 Weeks"
+		},
+		{
+			"id":4,
+			"name":">3 Weeks"
+		}
+	],
+	"relocationList": [
+		{
+			"id":1,
+			"name":"Open"
+		},
+		{
+			"id":2,
+			"name":"Tri State Area"
+		},
+		{
+			"id":3,
+			"name":"PA NJ NY"
+		},
+		{
+			"id":4,
+			"name":"States"
+		}
+	],
 	"visaList": [
 		{
 			"id":1,
@@ -416,9 +483,7 @@
 		}
 	],
 	"jobPositionTypeList": ["C2C"],
-	"jobTypeList": ["Onsite (Mon-Friday)","Full Remote","Onsite (Mon-Thur) & Remote-Friday","Remote possible in future"],
-	"jobProjectStartList" : ["Immediate","1 week","2 Weeks","2-4 Weeks","1 Month"],
-	"visaPostJobList": ["H1B", "OPT/CPT", "GCEAD", "GC", "USC", "L2EAD", "H4EAD"]
+	"jobTypeList": ["Onsite (Mon-Friday)","Full Remote","Onsite (Mon-Thur) & Remote-Friday","Remote possible in future"]
 
 
 }
