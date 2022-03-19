@@ -44,7 +44,7 @@ __webpack_require__.r(__webpack_exports__);
 var ApiConfiguration = /** @class */ (function () {
     function ApiConfiguration() {
         //rootUrl: string = 'https://hiresweb.azurewebsites.net';
-        this.rootUrl = 'http://hiresapi.azurewebsites.net';
+        this.rootUrl = 'https://hiresapi.azurewebsites.net';
     }
     ApiConfiguration = tslib__WEBPACK_IMPORTED_MODULE_0__["__decorate"]([
         Object(_angular_core__WEBPACK_IMPORTED_MODULE_1__["Injectable"])({
