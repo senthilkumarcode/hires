@@ -5448,7 +5448,7 @@ __webpack_require__.r(__webpack_exports__);
 var environment = {
     production: false,
     //apiUrl: 'https://hiresweb.azurewebsites.net/api/',
-    apiUrl: 'http://hiresapi.azurewebsites.net/api',
+    apiUrl: 'https://hiresapi.azurewebsites.net',
     firebase: {
         apiKey: "AIzaSyDuqEX6b2BGfkKWmoEYinOJisIJcBnvaAw",
         authDomain: "hiresui.firebaseapp.com",
